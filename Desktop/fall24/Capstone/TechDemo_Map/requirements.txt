@@ -1,0 +1,8 @@
+requests
+python-dotenv
+beautifulsoup4
+selenium
+geopy
+folium
+Scrapy
+pandas
